@@ -256,6 +256,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Exspanse](https://exspanse.com) - MLOPS Platform to build, train and deploy ML models and AI solutions. The free plan allows the creation of unlimited projects, 5Gb of cloud storage, and five docker container images.
   * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
   * [Export SDK](https://exportsdk.com) - PDF generator API with drag-and-drop template editor that provides an SDK and no-code integrations. The free plan has 250 monthly pages, unlimited users, and three templates.
+  * [Fern](https://buildwithfern.com) - Use your API definition to generate SDKs in popular languages, and generate API reference documentation webpages. Add Markdown pages to your API reference and host them with Fern for a full documentation solution. OpenAPI fully supported.
   * [file.coffee](https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account).
   * [Flatirons Fuse](https://flatironsdevelopment.com/products/fuse/) - An embeddable CSV and spreadsheet import tool that makes data to your website fast, easy, and painless.
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
@@ -499,6 +500,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Cody AI](https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b) each month.
   * [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
   * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all significant standalone and web IDEs.
+  * [Fern](https://buildwithfern.com) - Write API definitions and use them to generate SDKs/client libraries in popular languages such as TypeScript, Python, Java, Go, and more. OpenAPI fully supported. Free tier generates code for up to a max of 20 endpoints. 
   * [Metalama](https://www.postsharp.net/metalama) - Only for C#. Metalama generates the boilerplate of the code on the fly during compilation so that your source code remains clean. It is free for open-source projects, and its commercial-friendly free tier includes three aspects.
   * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software faster by providing insights learned from all the code in the world. Plugin available.
   * [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
@@ -692,7 +694,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Corbado](https://www.corbado.com/) — Add passkey-first authentication to new or existing apps. Free for unlimited MAUs.
   * [Descope](https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
   * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free for ten users, all authentication methods, unlimited, integrations, hardware tokens.
-  * [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.
   * [Kinde](https://kinde.com/) - Simple, robust authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
   * [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for ten users, VPN, Websites, and SSH
   * [MojoAuth](https://mojoauth.com/) - MojoAuth makes it easy to implement Passwordless authentication on your web, mobile, or any application in minutes.
@@ -874,6 +875,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time and has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
   * [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30-day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
   * [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
+  * [Jam](https://jam.dev) - Developer friendly bug reports in one click. Free plan with unlimited jams.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -893,7 +895,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
   * [Free ATS Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.
-  * [Free Professional Resume Templates & Edtior](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
+  * [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -967,6 +969,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
   * [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :
      - [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.
+     - [Zoho Assist](https://www.zoho.com/assist) — Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.
      - [Sprints](https://zoho.com/sprints) Free for 5 users,5 Projects & 500MB storage.
      - [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer, Sheets & Show) comes bundled.
      - [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to [Bugtracker](https://zoho.com/bugtracker).
@@ -1084,7 +1087,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on the fly with a worldwide cache.
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
   * [Gcore](https://gcorelabs.com/) Global content delivery network, 1 TB and 1 million requests per month free and free DNS hosting
-  * [LightCDN](https://www.lightcdn.com) - Free 100GB CDN with eight international Pop. Unlimited HTTP(S) requests.
   * [CacheFly](https://portal.cachefly.com/signup/free2023) - Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1189,6 +1191,7 @@ Update Time, five active automations, webhooks.
   * [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.
   * [Drive To Web](https://drv.tw) — Host directly to the web from Google Drive & OneDrive. Static sites only. Free forever. One site per Google/Microsoft account.
   * [Fenix Web Server](https://preview.fenixwebserver.com) - A developer desktop app for hosting sites locally and sharing them publically (in real-time). Work however you like, using its beautiful user interface, API, and/or CLI.
+  * [Fern](https://buildwithfern.com) - Build and host a Markdown-based documentation site on Fern's free plan. You can even auto-generate an API reference for your site from API definition files. The site is hosted at _yoursite_.docs.buildwithfern.com.
   * [Free Hosting](https://freehostingnoads.net/) — Free Hosting With PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
   * [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
   * [HelioHost](https://heliohost.org) — Non-profit free web hosting with Plesk control panel, PHP, Node.js, Python, Django, Flask, .NET, Perl, CGI, MySQL, PostgreSQL, SQLite, IMAP/POP3/SMTP email, unlimited bandwidth, free subdomains, 1000 MB storage for free with the option to upgrade.
@@ -1251,7 +1254,6 @@ Update Time, five active automations, webhooks.
   * [4EVERLAND](https://www.4everland.org/) — Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
-  * [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. The free plan provides 1 Project, 25 GB storage, and 25 GB monthly bandwidth.
   * [Tebi](https://tebi.io/) - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.
   * [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
   * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB downloads per month.
@@ -1442,6 +1444,7 @@ Update Time, five active automations, webhooks.
   * [internxt.com](https://internxt.com) – Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
   * [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 20 GB, three devices, 5 GB referral bonus (90 days account inactivity).
   * [MConverter.eu](https://mconverter.eu/) – Convert files in bulk. Supports many file formats, including new ones like [AVIF](https://mconverter.eu/convert/to/avif/). Extract all image frames from videos. Free for up to ten 100MB-files per day, processed in batches of two.
+  * [ImageEngine](https://imageengine.io/) – ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
 
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1470,7 +1473,6 @@ Update Time, five active automations, webhooks.
   * [Icon Horse](https://icon.horse) – Get the highest resolution favicon for any website from our simple API.
   * [Iconoir](https://iconoir.com) – An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
   * [Icons8](https://icons8.com) — Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.
-  * [Invision App](https://www.invisionapp.com) - UI design and prototyping tool. Desktop and web apps are available. Free to use with one active prototype.
   * [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
   * [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
@@ -1751,7 +1753,6 @@ Update Time, five active automations, webhooks.
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive, fun playground to learn Docker.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
-  * [Platform9](https://platform9.com/) - Managed Kubernetes plane. The free plan offers management capabilities for up to 3 clusters & 20 nodes. Just so you know, you must provide cluster infrastructure by yourself.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1890,6 +1891,7 @@ Update Time, five active automations, webhooks.
   * [3Dassets.one](https://3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
   * [Kenney](https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.
   * [Poliigon](https://www.poliigon.com/) - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.
+  * [Freesound](https://freesound.org/) - Free collaborative sound library offerer with different CC licenses.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1925,7 +1927,5 @@ HTML Themes and UI Kits to create your applications faster!
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
   * [QRCodeBest](https://qrcode.best/) - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.
-  * [PythonAnywhere](https://www.pythonanywhere.com/) - PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web editor or simply start a console session. The platform provides one low powered CPU web app at your-username.pythonanywhere.com for free
-  * [Glitch](https://glitch.com/) - Glitch is the friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR
 
-  * **[⬆️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
